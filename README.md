@@ -8,6 +8,16 @@ The Attendance System provides login access for both administrators and teachers
             5. Open the Workbench and put the database in it
             6. Open chrome and use this "http://localhost/Student-Attendance-System/index.php"
 
+ADMIN LogIn- admin@mail.com ADMIN Pass - Password@123
+
+Teacher LogIn- kevin@mail.com Teacher Pass - pass123
+
+WEB SERVICE INTEGRATION
+
+Web service integration involves the connection and facilitation of communication between diverse software applications or systems through the internet. This connectivity enables the seamless sharing of data, functionality, or services among these applications.
+
 ADMIN LogIn- admin@mail.com ADMIN Pass- Password@123
 
 Teacher LogIn- kevin@mail.com Teacher Pass- pass123
+
+Video Link - https://youtu.be/mrKm21mTfJM
